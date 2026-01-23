@@ -1,4 +1,4 @@
-# 🇹🇼 台灣新聞熱門關鍵字 ++ 廢文製造所
+# 台灣新聞熱門關鍵字 ++ 廢文製造所
 
 ### Taiwan News 3D Word Cloud & Meme Generator
 
