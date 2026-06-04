@@ -9,10 +9,7 @@
 這是一個結合 **即時新聞爬蟲**、**自然語言處理 (NLP)** 與 **3D 資料視覺化** 的趣味專案。程式會即時抓取 Google News 台灣焦點新聞，分析出當下最熱門的關鍵字，並將其製作成 3D 自動旋轉的文字雲，最後隨機填入 100 組幽默的「廢文模板」中，博君一笑。
 
 ## 🚀 線上展示 (Live Demo)
-
-**點擊下方連結立即體驗：**
-
-👉 **[https://taiwan-news-meme-makr.streamlit.app/](https://taiwan-news-meme-makr.streamlit.app/)**
+ **[https://taiwan-news-meme-makr.streamlit.app/](https://taiwan-news-meme-makr.streamlit.app/)**
 
 ---
 
